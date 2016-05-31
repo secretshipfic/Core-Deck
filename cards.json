@@ -1,0 +1,2149 @@
+{
+    "deck": {
+        "name": "Core 1.1.6 by Children of Kefentse", 
+        "version": "1.0", 
+        "module": "TSSSF_CardGen", 
+        "defaultArtist": "Pixel Prism", 
+        "copyright": "TSSSF by Horrible People Games."
+    }, 
+    "cards": [
+        {
+            "type": "START", 
+            "title": "Fanfic Author Twilight", 
+            "picture": "00 START.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Twilight Sparkle"
+            ], 
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. This power cannot be copied.", 
+            "flavor": "She was no writer. She was a prophet. Her words spanned the universes, sang hymns to the terrible improbability of life and love. She was like unto a god, Twilight was.\n- Element of Magic: An Autobiography"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Star Student Twilight", 
+            "picture": "Pony - Star Student Twilight Sparkle.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Twilight Sparkle"
+            ], 
+            "body": "Totally Not Cheating (Copy): {copy}", 
+            "flavor": "\"W-what? This cannot be!\" Trixie stood aghast over the masterful masterpieces Twilight had laid out in runic scrawl on her desk, \"Nopony could solve The Last Riddle! And in such an elegant way... It's IMPOSSIBLE!\"\n- Element of Magic: An Autobiography"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Super Spy Twilight", 
+            "picture": "Pony - I Seen Some Shit Twilight.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Twilight Sparkle"
+            ], 
+            "body": "Debriefing (Search): {search}", 
+            "flavor": "\"Who are you?\" whispered the blood-soaked mare as she cowered. \"I am Death,\" hissed Twilight Sparkle as she pulled the trigger. Bang! - Of Ponies and Peril, Chapter 2"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Private Eye Twilight", 
+            "picture": "Pony - Private Eye Twilight.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Twilight Sparkle"
+            ], 
+            "body": "Pound the Pavement (Swap): {swap}", 
+            "flavor": "The rain ran its soggy fingers down the icy window panes. I listened to the ice crackle in my glass, pondering what I'd done in a past life to put me into this hell hole. Three dead partners, two bullet wounds, and one long therapy bill later, and here I am. But, as they say in this city, \"You gotta pay the bills.\" - Casaflanka"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Heartless Dictator Rarity", 
+            "picture": "Pony - Leader of the New World Rarity.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rarity", 
+                "Villain"
+            ], 
+            "body": "Violent Coup (Replace): {replace}", 
+            "flavor": "As Rarity looked down into the viewing pond, her visage darkened. \"No. This will not do. Bring me the pink one's head before she takes my empire down with her!\"\n- Of Ponies and Peril, Chapter 34"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Dramatically\nWounded Rarity", 
+            "picture": "Pony - Dramatically Injured Rarity.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rarity"
+            ], 
+            "body": "All the Pieces Start to Fall (Swap): {swap}", 
+            "flavor": "The bang was loud, and Rarity fell, hair seeming weightless, though the shot that took her was weighty indeed.\n- A Twist and a Shot"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Black Widow Rarity", 
+            "picture": "Pony - Black Widow Rarity.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rarity"
+            ], 
+            "body": "Malicious Machinations (New Goal): {goal}", 
+            "flavor": "She was black as silk, and sharp as the nighttime wind. The stallions all had eyes for her, but she only had eyes for one thing: Danger. - Casaflanka"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Tsundere Rainbow Dash", 
+            "picture": "Pony - Tsundere Rainbow Dash.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rainbow Dash"
+            ], 
+            "body": "Bento Box (Draw): {draw}", 
+            "flavor": "\"I-It's not like I like you or anything!\" stammered Rainbow as she blushed furiously. \"I just had extra left over, is all!\"\n- Cherry Blossoms Underhoof, Chapter 3"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Major General Dash", 
+            "picture": "Pony - Major General Rainbow Dash.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rainbow Dash", 
+                "Villain"
+            ], 
+            "body": "Surgical Strike (New Goal): {goal}", 
+            "flavor": "\"Are the missiles loaded?\" Rainbow Dash asked sharply. \"Ready, ma'am,\" her lieutenant replied smartly. \"Good. Then fire! And let slip the mares of war.\"\n- Of Ponies and Peril, Chapter 68"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Broken-Wing Rainbow Dash", 
+            "picture": "Pony - Broken-Wing Rainbow Dash.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Rainbow Dash"
+            ], 
+            "body": "Crash Landing (Replace): {replace}", 
+            "flavor": "In that instant, her whole existence shattered along with the bones in her wing. She knew she would never fly again.\n- A Twist and a Shot"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Druid Fluttershy", 
+            "picture": "Pony - Druid Fluttershy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Fluttershy", 
+                "Mane 6"
+            ], 
+            "body": "Isn't Nature Fascinating? (Replace): {replace}", 
+            "flavor": "Caramel had no idea that fuzzy bunnies could be so strong as they threw him at the mercy of their fluttery overlord. The buttery mare smiled serenely, one hoof stroking the head of Hairy the Bear, her most trusted compatriot. \"Hello,\" she said soothingly. \"Aren't you a pretty morsel?\"\n- The Forest Has Eyes"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Cult Leader Fluttershy", 
+            "picture": "Pony - Cult Leader Fluttershy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Fluttershy", 
+                "Mane 6", 
+                "Villain"
+            ], 
+            "body": "Sacrifice (Replace): {replace}", 
+            "flavor": "The hooded pony coughed politely. \"Oh, um, please, if you could just, um, repeat the mantra, I... *squeak* ... can summon Huggoth. Please and thank you.\"\n- The Faceless Butterfly"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Moe Fluttershy", 
+            "picture": "Pony - Moe Fluttershy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Fluttershy", 
+                "Mane 6"
+            ], 
+            "body": "Transfer Student (Swap): {swap}", 
+            "flavor": "\"O...oh, sempai,\" Fluttershy stammered. \"I d...didn't even know you knew my name...\"\n- Cherry Blossoms Underhoof, Chapter 1"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Pinkamena", 
+            "picture": "Pony - Pinkamena.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Pinkie Pie"
+            ], 
+            "body": "It Puts the Frosting on Its Skin (Special):\nWhile this card is in your hand, you may discard a Pony card from the grid and play this card in its place. If you do this, discard another Pony card from the grid as well. This power cannot be copied.", 
+            "flavor": "\"I've made a party for you!\" Pinkie said as her eyes widened bigger and bigger! \"A party... OF DEATH!!\"\n- Blood Becomes Her, Chapter 3"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Gypsy Witch Pinkie Pie", 
+            "picture": "Pony - Gypsy Witch Pinkie Pie.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Pinkie Pie"
+            ], 
+            "body": "Bake a Portal (Special): You may draw 3 cards from the Ship and/or Pony decks, then discard 2 cards.", 
+            "flavor": "The tent reeked of incense, cardamom, cinnamon, and just a dash of chocolate icing. - Of Ponies and Peril, Prologue"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Freedom Fighter Pinkie Pie", 
+            "picture": "Pony - Freedom Fighter Pinkie Pie.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Mane 6", 
+                "Pinkie Pie"
+            ], 
+            "body": "Revolution! (Special): You may search the Ship and/or Pony discard piles for up to 2 cards of your choice and put them into your hand. If any of those cards are still in your hand at the end of your turn, discard them.", 
+            "flavor": "\"I see you there, Empress! Can you hear it? Can you hear the ponies singing for the revolution? Singing for your DOOM?!\"\n- Of Ponies and Peril, Chapter 34"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Cider Season Applejack", 
+            "picture": "Pony - Cider Season Applejack.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Applejack", 
+                "Mane 6"
+            ], 
+            "body": "Two Bits For a Barrel (Draw): {draw}", 
+            "flavor": "Applejack stared into the empty cider bottle, that last glisten of golden drink taunting her. Reminding her of everything she wanted but couldn't achieve. - When Love Hurts"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Sharpshooter Applejack", 
+            "picture": "Pony - Sharpshooter Applejack.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Applejack", 
+                "Mane 6"
+            ], 
+            "body": "Hit List (Replace): {replace}", 
+            "flavor": "\"That's right, sugarcube,\" whispered Applejack as she trained her magic-powered pistol on Trixie's forehead. \"I hope y'like lead in yer brainplate...\" - Of Ponies and Peril, Chapter 12"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Applejack: the Cutest, Smartest,\nAll-Around-Best Background Pony", 
+            "picture": "Pony - Applejack the Background Pony.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Applejack", 
+                "Mane 6"
+            ], 
+            "body": "Another Derpy Episode (Swap): {swap}", 
+            "flavor": "The day was saved again, by Twilight and all her best friends: Fluttershy, Rainbow Dash, Pinkie Pie, and Rarity!\n- The Gang's All Here"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Princess Celestia", 
+            "picture": "Pony - Princess Celestia.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Celestia", 
+                "Elder", 
+                "Princess"
+            ], 
+            "body": "Chessmaster (Search): {search}", 
+            "flavor": "The beautiful princess shimmered in her daytime, like a song from a heavenly flute. She always took a special joy in seeing her favorite, cutest student. - Magical Makeover, Chapter 1"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Mortal Celestia", 
+            "picture": "Pony - Mortal Celestia.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Celestia", 
+                "Elder", 
+                "Princess"
+            ], 
+            "body": "Plans Unravel (Replace): {replace}", 
+            "flavor": "\"No... NO!\" cried Celestia as she looked down ... no ... UP at Rarity. \"You wouldn't...!\" Rarity laughed coldly. \"Ah, but I already have. Farewell ... your highness.\" Her laughter echoed through the dungeon. Celestia was powerless to stop it. - Of Ponies and Peril, Chapter 1"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Princess Luna", 
+            "picture": "Pony - Princess Luna.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Elder", 
+                "Luna", 
+                "Princess"
+            ], 
+            "body": "The Princess Demands It (Swap): {swap}", 
+            "flavor": "\"DO YOU FEAR US?\" shouted the princess at Berry Punch. She took a step closer. \"DO YOU FEAR... OUR LOVE?\"\n- Night Terrors"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Nightmare Moon", 
+            "picture": "Pony - Nightmare Moon.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Elder", 
+                "Luna", 
+                "Princess", 
+                "Villain"
+            ], 
+            "body": "Nefarious Plans (Replace): {replace}", 
+            "flavor": "\"The Night seethes with lust!\" announced Nightmare Moon as she advanced on the drunk mare. \"Has not our metamorphosis changed your mind? ARE YOU NOT EVEN MORE IMPRESSED?\" - Night Terrors"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Big Macintosh", 
+            "picture": "Pony - Big Macintosh.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple"
+            ], 
+            "body": "Bumper Crop (Draw): {draw}", 
+            "flavor": "As he looked into her eyes, he knew that he would love her deeply for all time, to the ends of the known universe. He could swim in those eyes for hours, bathe in their luminescence. His heart swelled, thoughts skittering across his mind for an eternal, soul-warming moment. \"Eeyup,\" he said. - Flutter On My Wayward Foal"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Braeburn", 
+            "picture": "Pony - Braeburn.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple"
+            ], 
+            "body": "Welcome to AAAAAAPPLELOOSA! (Draw): {draw}", 
+            "flavor": "His sweet tenor voice cut through the desert air like an eagle's screech, only more heart-breakingly melodic. And Big Macintosh knew... he was home. - Passion In Cider"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Doctor Whooves", 
+            "picture": "Pony - Doctor Whooves.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Elder"
+            ], 
+            "body": "Boon Companion (Swap): {swap}", 
+            "flavor": "\"Ah, yes, well... this would be, in my expert opinion, an absolutely perfect time...\" Doctor Whooves pauses, giving his stunningly beautiful companion a knowing glance. \"To RUN!!\" - My Life With The Doctor"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Road Warrior Spike", 
+            "picture": "Pony - Spike.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "earth pony", 
+                "Dystopian"
+            ], 
+            "keywords": [
+                "Dragon", 
+                "Spike"
+            ], 
+            "body": "A Different Path (New Goal): {goal}", 
+            "flavor": "\"Oh, Rarity...\" Spike looked down at his claws, tears welling up in his dragonfire eyes. \"Why can't you see what you're doing to Equestria? I have to believe that love can save you. I have to.\" The teardrops dropped to the ground, sparkling in the last shaft of sunlight. He had to hope, but sometimes...it just looked bleak. - Of Ponies and Peril, Chapter 5"
+        }, 
+        {
+            "type": "Card", 
+            "picture": "Derpy"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Granny Smith", 
+            "picture": "Pony - Granny Smith.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Elder"
+            ], 
+            "body": "When I Was Your Age (Search): {search}", 
+            "flavor": "Very few ponies saw past the wrinkles and doddering remarks of Granny Smith. But for those that did... they would find a heart full of powerful wit, and a burning passion. A passion... for LIFE! And maybe... love?\n- A Wrinkle In Time"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Young and Hot\nGranny Smith", 
+            "picture": "Pony - Young and Hot Granny Smith.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Earth Pony"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Granny Smith"
+            ], 
+            "body": "Hey There, Sailor (Swap): {swap}", 
+            "flavor": "Big Macintosh realized with a jolt who he was talking to, and immediately regretted more or less everything he'd said in the past few minutes.  The cute filly he'd just realized was his granny only batted her eyelashes at him in a not-remotely-subtle way. - A Wrinkle In Time"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Starswirl the Bearded", 
+            "picture": "Pony - Starswirl the Bearded.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Elder", 
+                "Starswirl"
+            ], 
+            "body": "History Lesson (Search): {search}", 
+            "flavor": "\"Twilight! No!\" Starswirl stood strong against the magically swirling maelstrom, gazing with intense worry at his newest protege, \"The energies are too much! You don't have to do this!\" A single tear rolled down his distinguishedly furrowed face. \"You'll be KILLED!\" - Power Overwhelming"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Royal Guard\nShining Armor", 
+            "picture": "Pony - Shining Armor.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Shining Armor"
+            ], 
+            "body": "Military Draft (Swap): {swap}", 
+            "flavor": "\"T-twilie,\" Shining Armor stuttered, blushing furiously as he failed to meet his sister's tender gaze, \"There's... s-something I have to tell you...\" Cadance watched in horror from the bushes. It couldn't be! - The Perfect Day"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "B.B.B.F.F.\nShining Armor", 
+            "picture": "Pony - BBBFF Shining Armor.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Shining Armor"
+            ], 
+            "body": "Helping Little Sis (Replace): {replace}", 
+            "flavor": "I'm surrounded by idiots! Nopony's really worthy of my exquisite genius except Shining. And maybe that foalsitter. Surely her name will come to me.... I think it starts with a C.\n- Twilight's Secret Diary, Volume IV"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Princess Cadance", 
+            "picture": "Pony - Princess Cadance.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Cadance", 
+                "Princess"
+            ], 
+            "body": "Coronation (Replace): {replace}", 
+            "flavor": "\"Sunshine, sunshine, ladybugs awake! Clap your hooves...\" The mares hesitated as their eyes met. Twilight knew she was too old for this, but something about her old foalsitter just captivated her. Cadance cleared her throat and leaned in. \"...and do a little shake.\" - Rekindling Old Friendships"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Best Foalsitter Cadance", 
+            "picture": "Pony - Best Foalsitter Cadance.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Cadance", 
+                "Princess"
+            ], 
+            "body": "The Other Sitter Cancelled (Swap):\n{swap}", 
+            "flavor": "I should mention that I've now observed the foalsitter and my brother attempting to ingest one another's tongues. If this is adulthood, it's really gross!\n- Twilight's Secret Diary, Volume V"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Bon Bon", 
+            "picture": "Pony - Bon Bon.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Earth Pony"
+            ], 
+            "body": "Sweet Tooth (Draw): {draw}", 
+            "flavor": "Bon Bon slammed the bag of sugar down on the table. \"Bats fly, monkeys climb, and filly, I make candy.\"\n- Iron Confectioner"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Gilda", 
+            "picture": "Pony - Gilda.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Griffon", 
+                "Villain"
+            ], 
+            "body": "Bye Losers! (New Goal): {goal}", 
+            "flavor": "For the third time today, Gilda did not look at the fading picture of Rainbow Dash and she certainly did not cry.\n- Fading Memories"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Berry Punch", 
+            "picture": "Pony - Berry Punch.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Earth Pony"
+            ], 
+            "body": "Black Out (Replace): {replace}", 
+            "flavor": "Twilight backed up against the wall a little harder, as though it might grow a door. \"Mmmaybe I should try again when you're, um, less indisposed?\" Berry only chuckled. \"Filly, I do EVERYTHING indisposed.\" - Coyote Ugly"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Crackle", 
+            "picture": "Pony - Crackle.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Dragon"
+            ], 
+            "body": "Convincing Disguise (Replace): {replace}", 
+            "flavor": "Spike stood at the door, slackjawed for a few moments.  The... thing... at the door gurgled pleasently and tilted its head expectantly.  He turned. \"Um, Twilight, I'm hoping the door is for you...\" - What About Crackle?"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Mahou Shoujo Derpy", 
+            "picture": "Pony - Mahou Shoujo Derpy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Derpy"
+            ], 
+            "body": "Magical Girl Wand Activation! ... oops (Special): If there are any cards in the Pony discard pile, shuffle them and swap them with the Pony deck. Do the same for the Ship deck. Then discard all the active Goals and draw to replace them.", 
+            "flavor": "With the power of the magical wand though, she wasn't just a clutzy mailpony with an eye problem! She was SOMEPONY! - Cherry Blossoms Underhoof, Chapter 5"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Mr. Cake", 
+            "picture": "Pony - Mister Cake.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Earth Pony"
+            ], 
+            "body": "On The House (Draw): {draw}", 
+            "flavor": "They were a blur, a single eight-hoofed blur in the kitchen. It was beautiful, it was terrible. Pinkie and Twilight watched in awe.  - A Day At Sugar Cube Corner"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Mrs. Cake", 
+            "picture": "Pony - Mrs Cake.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Earth Pony"
+            ], 
+            "body": "Baker's Dozen (Draw): {draw}", 
+            "flavor": "Sugar vanished into mixing bowls. Mixing bowls emptied into moulds. Ovens latched and unlatched. Cake boxes filled. The deadline loomed, but the dance continued.\n- A Day At Sugar Cube Corner"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Octavia", 
+            "picture": "Pony - Octavia.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "body": "Harmony (Swap): {swap}", 
+            "flavor": "A low, mournful thrum filled the auditorium as Octavia played her melancholy melody on her contrabass. A single tear rolled down her cheek as she nuzzled the neck of her instrument and channeled her heartbreak into the horsehair bowstring, and her brow threatened to furrow against the onslaught of misery that built up inside. Oh how it hurt.\n- The Last Argument"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Vinyl Scratch", 
+            "picture": "Pony - Vinyl Scratch.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "body": "Remix (Replace): {replace}", 
+            "flavor": "Sobbing, Vinyl Scratch hung onto the weathervane, letting the rain dash against her cheeks like the tears that already fell. How could Octavia have been so hurtful? This was her music - her SOUL! That's when lightning struck, the electricity jagging through her body and making it snap like a whip. - The Last Argument"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Pony Joe", 
+            "picture": "Pony - Pony Joe.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "body": "Lunch Rush (Swap): {swap}", 
+            "flavor": "\"Ah, butternuts!\" Pony Joe gasped, catching the bag of powdered sugar just a little too late. \"Sorry!\" he apologizes to the put-upon student of Celestia, her lavender mane now adorned with a light sprinkling of white. \"Here, let me help you clean up...\" - Sugar and Spice"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Caramel", 
+            "picture": "Pony - Caramel.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Apple"
+            ], 
+            "body": "Yet Another Cameo (Swap): {swap}", 
+            "flavor": "His sweet brown mane swept back from his dazzling eyes as the wind fluttered his bangs and his manicured hooves clopped merrily on the cobblestone. Mares swooned; stallions questioned themselves; but no doubt, every eye was on Caramel as he jaunted toward the store. - Caramel Sweets"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Cheerilee", 
+            "picture": "Pony - Cheerilee.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "body": "Get Me Outta Here! (Special): You may discard Cheerilee from your hand to draw 2 cards from the Ship and/or Pony decks.", 
+            "flavor": "Day 41. I still can't find an exit. I used to fear for my students but now I'm afraid for my own life. The walls are closing in, and I? I wonder if I'll ever make it out of this ridiculous fantasy... - Unknown"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Lyra", 
+            "picture": "Pony - Anthropologist Lyra.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "body": "Rewriting History (Replace): {replace}", 
+            "flavor": "The mares' shrieking reached all the way down the block. Ponies stopped for only a moment, and moved on with heads lowered. The distant voices screeched something about murder and nopony needed nor wanted to know any more.\n- Lyra: The Hankering"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Royal Guard Hank", 
+            "picture": "Pony - Royal Guard.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Pegasus"
+            ], 
+            "keywords": [
+                "Hank"
+            ], 
+            "body": "Standing Guard (Draw): {draw}", 
+            "flavor": "Day in and day out, Hank the Pegasus Guard watched the beautiful protege of the princess and he yearned... but he knew she could never love a pony named Hank, which is a terrible name.\n- Hank's a Big Stupid-Head and Should Give Twilight Cookies When She Asks"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Changeling", 
+            "picture": "Pony - Earth Pony Changeling.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "changelingearthpony"
+            ], 
+            "keywords": [
+                "Changeling", 
+                "Villain"
+            ], 
+            "body": "Gains the name, symbols, and keywords of any single {earthpony} of your choice until the end of your turn. This power also activates when this card is moved to a new place on the grid, even if other cards say it wouldn't.", 
+            "flavor": "As a changeling, C'karr could be anypony at all- as long as it wasn't himself! - The Thatched Roof Hive"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Changeling", 
+            "picture": "Pony - Unicorn Changeling.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "changelingunicorn"
+            ], 
+            "keywords": [
+                "Changeling", 
+                "Villain"
+            ], 
+            "body": "Gains the name, symbols, and keywords of any single {unicorn} of your choice until the end of your turn. This power also activates when this card is moved to a new place on the grid, even if other cards say it wouldn't.", 
+            "flavor": "C'karr stammered helplessly, his compound eyes tearing up under the disguise, \"b-but you DON'T know me, Twilight!\"\n- The Thatched Roof Hive"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Changeling", 
+            "picture": "Pony - Pegasus Changeling.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "changelingpegasus"
+            ], 
+            "keywords": [
+                "Changeling", 
+                "Villain"
+            ], 
+            "body": "Gains the name, symbols, and keywords of any single {pegasus} of your choice until the end of your turn. This power also activates when this card is moved to a new place on the grid, even if other cards say it wouldn't.", 
+            "flavor": "C'karr flung his perforated hooves around Twilight, his veil dropping. \"Do you think a little thing like that can stop true friendship?\" - The Thatched Roof Hive"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Queen Chrysalis", 
+            "picture": "Pony - Queen Chrysalis.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "changelingalicorn"
+            ], 
+            "keywords": [
+                "Changeling", 
+                "Chrysalis", 
+                "Queen", 
+                "Villain"
+            ], 
+            "body": "Gains the name, symbols, and keywords of any single {alicorn} of your choice until the end of your turn. This power also activates when this card is moved to a new place on the grid, even if other cards say it wouldn't.", 
+            "flavor": "The buglike queen smiled serenely at her tied-up opponent, the illustrious Queen of the Sun. And slowly her long, tattered mane began to flow with prismatic colors...\n- New Identities"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Zecora", 
+            "picture": "Pony - Zecora.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Zebra"
+            ], 
+            "body": "Sage Advice (New Goal): {goal}", 
+            "flavor": "\"To ease the ache of one's desire...\" She leaned in close to Bulk Biceps, smiling attractively. \"One must stoke his heart's fire.\" Bulk Biceps could only blush. Was...was she flirting with him? He could only hope the answer was ... YEAH!\n- The Love Shack"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "The Great\nand Powerful Trixie", 
+            "picture": "Pony - TGaPT.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Trixie", 
+                "Villain"
+            ], 
+            "body": "Anything You Can Do, I Can Do Better (Copy): {copy}", 
+            "flavor": "\"I guarantee I can beat you in any challenge,\" Trixie boasted. \"Just name your event.\" Flim and Flam gave each other knowing looks, both knowing exactly the sort of proposition to make. - The Magician's Gambit"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Kefentse", 
+            "picture": "Pony - My First OC.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "OC"
+            ], 
+            "body": "Mary Sue (Copy): {copy}", 
+            "flavor": "Kefentse gazed down into her dark, crimson wine, sighing dejectedly in the shadows of the unsavory bar. The daughter of a friendly pony-raised dragon and a zebra sage... but she had been utterly shamed. No. She had been framed! There was no blood on her claws!\n- Blood and Darkness, Chapter 4"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Discord", 
+            "picture": "Pony - Discord.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Alicorn"
+            ], 
+            "keywords": [
+                "Draconequus", 
+                "Elder", 
+                "Villain"
+            ], 
+            "body": "Big Ol' Storm of Chaos (Special): {3swap}", 
+            "flavor": "How to go about it? Discord pondered. He had all the world enslaved in his topsy-turvy world. All except one: that damnable mare Celestia! And really, she was all he wanted in the first place... - Kill Switch"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Flim & Flam", 
+            "picture": "Pony - Flim and Flam.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Flam", 
+                "Flim", 
+                "Villain"
+            ], 
+            "body": "{double pony}\nSwitcharoo (Swap): {swap}", 
+            "flavor": "\"I say, Flam, we've got ourselves into a tight spot!\" Flim said to his brother. The angry crowd was coming closer! \"I don't think we can talk our way out of this one,\" Flam agreed. If only they hadn't been so terrible to that mare Applejack, this never would have happened! - Seller's Remorse"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Aloe & Lotus", 
+            "picture": "Pony - Aloe and Lotus.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Aloe", 
+                "Lotus"
+            ], 
+            "body": "{double pony}\nMakeover (New Goal): {goal}", 
+            "flavor": "\"Oh, ja! You are vanting ze couple's massage?\" Aloe cooed, nudging her stuttering client towards the spa room. Lotus smiled at him, dimming the lights with a mischievous glint in her eye. - The Ultimate Relaxation"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Smarty Pants", 
+            "picture": "Pony - Smarty Pants.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Female", 
+                "earth pony"
+            ], 
+            "keywords": [
+                "Object"
+            ], 
+            "body": "Nostalgia (Search): {search}", 
+            "flavor": "\"What are we doing today, Twilight?\" Smarty Pants smiled companionably at her bestest friend as they collectively tugged their wagon along the bumpy cobblestones of Canterlot. \"The best thing in the world!\" answered Twilight, \"Homework!\" - Scientific Progress Goes Bzap!"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Bulk Biceps", 
+            "picture": "Pony - Snowflake.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Pegasus"
+            ], 
+            "body": "YEEEEEAAAAAH! (Swap): {swap}", 
+            "flavor": "She was beautiful: nice flank, strong legs, and a smile that could light up a room. When she lifted weights, he felt she was lifting his heart. Bulk Biceps told his friends he went to the gym to work out, but he really went... for her.\n- Power Training"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "The Wonderbolts", 
+            "picture": "Pony - The Wonderbolts.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "malefemale", 
+                "Pegasus"
+            ], 
+            "body": "This card counts as a single Pony.\n{hermaphrodite}", 
+            "flavor": "Rainbow Dash had never been to the Wonderbolt Officer's Lounge before. It was resplendent in shades of azure and citrine, but what really stood out was the cool, laid back atmosphere. Rainbow Dash fidgeted fiercely, wishing she felt as laid back as they did! - Hard Knocks and Soft Kisses"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Prince Blueblood", 
+            "picture": "Pony - Prince Blueblood.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Blueblood", 
+                "Villain"
+            ], 
+            "body": "Prima Donna (Replace): {replace}", 
+            "flavor": "\"Oh, a mare of taste I see,\" Prince Blueblood said to the tittering female who blushed and offered a hoof to him. \"Why don't you get us some drinks while I catch up with an old friend?\" He smiled; Daisy melted. They always did. Always.\n- Picking Daisies"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Iron Will", 
+            "picture": "Pony - Iron Will.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male", 
+                "Unicorn"
+            ], 
+            "keywords": [
+                "Minotaur"
+            ], 
+            "body": "Group \"Therapy\" (Swap): {swap}", 
+            "flavor": "\"If you want to excite, use less bark and more bite,\" the minotaur chastised Rainbow Dash. \"Are you all talk or are you gonna show Iron Will just what you're made of?\"\n- Getting the Horns"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Tom", 
+            "picture": "Pony - Tom.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male"
+            ], 
+            "keywords": [
+                "Object"
+            ], 
+            "body": "Tom does not have a race.\nHere Comes Tom! (Replace): {replace}", 
+            "flavor": "He was strong. Sturdy. Dependable. Loyal. Trustworthy. Simply put: Amazing. Everything a mare could ask for. Certainly better than any stallion! - My Neighbor Tom"
+        }, 
+        {
+            "type": "Pony", 
+            "title": "Bloomberg", 
+            "picture": "Pony - Bloomberg.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Male"
+            ], 
+            "keywords": [
+                "Apple", 
+                "Object"
+            ], 
+            "body": "Bloomberg does not have a race.\nAppleloosan Pit Stop (New Goal): {goal}", 
+            "flavor": "Strong, sturdy branches spread over the dusty plains of Appleloosa. He was a watcher. A guardian. A friend.\n- The Giving Tree"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "So THAT'S What That Does!", 
+            "picture": "Ship - So That's What That Does.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Race Change"
+            ], 
+            "body": "{race change}", 
+            "flavor": "Serendipity, that's what it was. \"Mistake\" is such an ugly word... - Magical Makeover"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Checking It Off My List", 
+            "picture": "Ship - Checking It Off My List.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "I am not inexperienced! I've had every sordid relationship imaginable! On paper. - Twilight's Secret Diary, Volume XIV"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Beach Episode", 
+            "picture": "Ship - Beach Episode.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Kefentse's ears droop pitifully as she gazed mournfully across the sand. A misunderstood, wrongfully-accused ostracist like her wouldn't be welcome at a party like that... But her noble head lifts in surprise as a pony waves at her, beckoning her over! - Blood and Shadows, Chapter 12"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Stuck on a Balcony\nAll Night", 
+            "picture": "Ship - Stuck On A Balcony All Night.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "At first, when the door latched shut, Fluttershy's stomach sank. But now, as the warmth of Blueblood nestled up close to her kept her warm on this chilly night, her heart flew.\n- Love Is An Open Door"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Trapped in a Storm", 
+            "picture": "Ship - Trapped in a Storm.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Snow was piling up in drifts on the window sill.  The fire roared.  Two ponies learned so much more of each other that night than they thought they'd ever know.\n- Warm Cabin, Cold Night"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Put a Ring on It", 
+            "picture": "Ship - Put A Ring On It.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Twilight! Did you hear?! Pinkie's getting MARRIED!\" Twilight looked up at Spike and then at her suitcase full of booze. \"I heard.\" - Dreading Bells"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Do You Think Love Can Bloom?\nEven on a Battlefield?", 
+            "picture": "Ship - Do You Think Love Can Bloom On A Battlefield.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Timeline Change"
+            ], 
+            "body": "{timeline change}", 
+            "flavor": "Twilight just stared blankly into her codec at Spike. She was doing that a lot lately. - Of Ponies and Peril, Chapter 22"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Saw You in a Dream", 
+            "picture": "Ship - Saw You In A Dream.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Luna normally enjoyed spying on the desires hidden in the dreams of other ponies, but never did the princess expect to see an image of HERSELF when engaging in her voyeuristic pursuits. She ought to be embarrassed, offended even, but instead she felt... strangely thrilled? - Nocturnal Omissions"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Cabin in the\nWoods, Awooo!", 
+            "picture": "Ship - Cabin in the Woods Awooo.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Play From Discard"
+            ], 
+            "body": "{play from discard}", 
+            "flavor": "Rarity's heart pounded. If the spooky noises outside didn't get to her, the romantic tension would! - Night Fright"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "They're at It Again?!", 
+            "picture": "Ship - They're At It Again.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"I swear,\" Celestia murmured as what had become a very familiar sound echoed through the castle corridors. \"I'm going to send her straight back to the moon if that's what it takes to get some peace and quiet.\" - Full Moon"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Unexpected Pregnancy", 
+            "picture": "Ship - Unexpected Pregnancy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Bon Bon sputtered, \"What?? ... How? ... That ... WHAT??\" Lyra just shrugged, saying simply, \"Science.\" - Pinkie Pi"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "You Had Me at \"Neigh\"", 
+            "picture": "Ship - You Had Me At Neigh.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Fluttershy was smitten. She followed him around like a lovesick puppy, fluttering on air, and squeaking unintelligibly. He was her hero... and she, his admirer.\n- Trapped in Love"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Step into My Basement", 
+            "picture": "Ship - Step Into My Basement.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Race Change"
+            ], 
+            "body": "{race change}", 
+            "flavor": "\"...Pinkie?\" Rainbow Dash looked around, but only heard giggling from the basement... - Blood Becomes Her"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "On the Lam", 
+            "picture": "Ship - On the Lam.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Timeline Change"
+            ], 
+            "body": "{timeline change}", 
+            "flavor": "Twilight and Derpy huddled together against the stone wall beneath the storm drain, as the Empire's trains cast flashing lights through the sewer. - Of Ponies and Peril, Chapter 1"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Time For an Experiment!", 
+            "picture": "Ship - Time For An Experiment.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Race Change"
+            ], 
+            "body": "{race change}", 
+            "flavor": "Twilight skated over her emotions, detaching herself from the conflicting feelings rushing through her.  This wasn't a game.  This was SCIENCE. - Pinkie Pi"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "I Read That in a Book Once!", 
+            "picture": "Ship - I Read That In A Book Once.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Her eyes ached as the letters and symbols seemed to float off the page, arranging themselves before her mind's eye. She couldn't see a pattern... until she could! She gasped: it all finally made sense! - The Divine Pretzel"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Slap-Slap Kiss", 
+            "picture": "Ship - Angry Sex.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "The two titans circled each other, like dragons, like tigers, like sharks. Rarity, the immovable object, Pinkie, the unstoppable force. The East battlements exploded over Rarity's shoulder, as behind Pinkie, the sounds of shots being fired echoed in the palace. The pawns fell around the two deadlocked queens... as they looked into each other's eyes, wondering what the hell they were fighting for...\n- Of Ponies and Peril, Chapter 97"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Love Poison Is No Joke!", 
+            "picture": "Ship - Love Poison is No Joke1.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Love Poison"
+            ], 
+            "body": "{love poison}", 
+            "flavor": "Apple Bloom gasped sharply as Scootaloo's eyes began to emit an ominous pink glow. \"Sweetie...\" The pegasus stepped forward. \"Pweety...\" Apple Bloom cringed away. \"Scootaloo, please...\" she wept. But the foal's joyous expression didn't stop. \"...Punkin...Pie!!\" - Last Days in Ponyville"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Shmoopy Boo!", 
+            "picture": "Ship - Love Poison is No Joke2.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Love Poison"
+            ], 
+            "body": "{love poison}", 
+            "flavor": "\"We have to tie 'em up,\" Apple Bloom said sharply to Sweetie Belle as they clasped tightly to Scootaloo's love-tortured form. \"Blindfold 'em maybe. Or we're never getting out of here alive.\" - Last Days in Ponyville"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Want It. Need It.", 
+            "picture": "Ship - Love Poison is No Joke3.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Love Poison"
+            ], 
+            "body": "{love poison}", 
+            "flavor": "\"This is it,\" Sweetie said softly to Apple Bloom as they clasped at the top of the water tower, looking down at the swarming shmooping mass of lovesick ponies. \"I'd say I love you, but...\" She cast a significant glance down. \"Maybe not that much.\"\n- Last Days in Ponyville"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Leaving on a\nPersonal Crusade", 
+            "picture": "Ship - Leaving on a Personal Crusade.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"There there, no tears,\" Trixie said, brushing a perfect, crystalline tear away from Twilight's exquisite cheek, \"When Trixie comes back, Trixie will be a wizard worthy of you.\"\n- Magical Follies"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "My Little\nShotgun Wedding", 
+            "picture": "Ship - Shotgun Wedding.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Of course, there was another, somewhat urgent reason the wedding was so sudden. - Untitled"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Bored on a\nSunday Afternoon", 
+            "picture": "Ship - Bored on a Sunday Afternoon.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "By now, Twilight, whose shimmering mane and brilliant mind were beyond compare, was used to her doll coming to life as soon as they were alone together. But she was hardly prepared for this! - The Vagaries of Growing Up"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "What Did I Do Last Night?!", 
+            "picture": "Ship - What Did I Do Last Night.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Twilight was many things. Beautiful. Brilliant. Amazing, really. But one thing she really was not was versed in the protocol for waking up next to a Draconequus and an Alicorn. - Something Completely Different"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Have You Met My Friend?", 
+            "picture": "Ship - Have You Met Twilight.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Few things in life were as awkward -- or as dangerous -- as this moment, when Spike tried desperately to explain Gilda's good qualities and came up dreadfully short. \n- Predator and Prey"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Can I Tell You a Secret?", 
+            "picture": "Ship - Can I Tell You A Secret.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Gender Change"
+            ], 
+            "body": "{gender change}", 
+            "flavor": "Although she was a lot smarter than she looked, Derpy was not, no matter how hard she tried, any good at keeping this kind of secret, and by the time she said anything, her feelings were a secret in the sort of way the ocean is a Zebra named Karl. - My Life With The Doctor"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Oops! Wrong Spell.", 
+            "picture": "Ship - Oops Wrong Spell.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Gender Change"
+            ], 
+            "body": "{gender change}", 
+            "flavor": "\"The Great and Powerful Trixie may have very slightly caused a number of very slight gender malfunctions.\"\n- Magical Follies"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Dude Looks Like a Lady", 
+            "picture": "Ship - Dude Looks Like A Lady.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Gender Change"
+            ], 
+            "body": "{gender change}", 
+            "flavor": "\"Do you not think we are going too far?\" asked Lotus. Aloe chided her, \"Non! Caramel shall be the most beautiful stallion in all of Equestria!\" - Caramel Sweets"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Rule 63", 
+            "picture": "Ship - Rule 63.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Gender Change"
+            ], 
+            "body": "{gender change}", 
+            "flavor": "In my studies on \"The Internet\" in the mirror universe, I have found something most fascinating! \n- Twilight's Secret Diary, Volume XXIX"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "I Wish I Knew\nHow to Quit You!", 
+            "picture": "Ship - I Wish I Knew How To Quit You.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "They both knew this passion would destroy them, but they could not stop themselves! - The Scraps Folder"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "There Are No Brakes\non the Love Train", 
+            "picture": "Ship - There Are No Brakes On the Love Train.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "No honestly I don't CARE if there's no way these two will get together, it's MY fic and I MAKE THE RULES!\n- Twilight's Secret Diary, Volume XVI"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Suspiciously Romantic\nRandom Picnic", 
+            "picture": "Ship - Suspiciously Romantic Random Picnic.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Hank eyed the cake suspiciously. Quite apart from the embarrassment of having helped the Crusaders, Fluttershy couldn't meet his eyes for another reason ... because soon he'd be as lovestruck as the rest of the town!! She could only pray the antidote they'd made would work...\n- Last Days in Ponyville"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Nothing in Common;\nPerfect Anyway", 
+            "picture": "Ship - Nothing In Common Perfect Anyway.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Rarity quickly decided Braeburn would be exactly the right stallion to go with in that he was basically a much louder, even more annoying version of Applejack, with the added benefit that he wasn't Applejack. - Sparks Fly"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "We've Got to\nStop Meeting Like This", 
+            "picture": "Ship - We Have To Stop Meeting Like This.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Oh, Fluttershy,\" Blueblood sneered, a smug smirk gracing his handsome countenance, \"If only there were somepony who loved you.\" - Love Is An Open Door"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Cult Meeting", 
+            "picture": "Ship - Cult Meeting.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Race Change"
+            ], 
+            "body": "{race change}", 
+            "flavor": "Fluttershy gasped! \"Y- you're new here...\"\n- The Faceless Butterfly"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Detention", 
+            "picture": "Ship - Detention.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Well well well, Miss Sparkle, how good of you to finally join us,\" Discord said with a dominating tone.  Twilight trembled, but only for a moment. - A Detention to Remember"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "How to Pick Up Mares:\nA Reference Guide", 
+            "picture": "Ship - Picking Up Mares.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "[Ed: This flavor text intentionally left blank.]"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Divine Intervention", 
+            "picture": "Ship - Divine Intervention.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"You're kidding, right? ... RIGHT?\" Celestia's leer wasn't making Mayor Mare feel any better about this.\n- Things That Go Bump In The Night"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "It's a Sign", 
+            "picture": "Action - Twitch-a-Twitch!.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Twilight had never seen Pinkie gyrate so. Whatever the pink pony's strange magic was detecting, it was a doozy!\n- Dreading Bells"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Amnesia!", 
+            "picture": "Ship - Amnesia.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Play From Discard"
+            ], 
+            "body": "{play from discard}", 
+            "flavor": "\"You're okay!\" Lyra cried, pressing a hoof to Bon Bon's cheek, glistening tears wetting her own. \"Thank Celestia! When I saw you fall into the river...\" Her tearful greeting is stopped as Bon Bon awkwardly pushes Lyra's hoof away, blinking at her quizzically. \"I'm sorry, but... do I know you?\"\n- Insult to Injury"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "The Other Mare", 
+            "picture": "Ship - The Other Mare.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Well, hello there, I don't know if I've seen you before,\" Twilight said flirtatiously. Caramel started. Didn't Twilight recognize him? - Caramel Sweets"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Startling Confession", 
+            "picture": "Ship - Startling Confession.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Gender Change"
+            ], 
+            "body": "{gender change}", 
+            "flavor": "\"Oh, Fluttershy? She was delicious!\" - Blood Becomes Her"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Now Kiss!", 
+            "picture": "Action - Now Kiss.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "It had gotten into the water supply: that was the first problem. The second? That there was no way to stop it. One by one, Apple Bloom saw ponies babbling saccharine nonsense and forming a skipping, love-drunk, terrifying mob. She looked...and she saw her doom that day.\n- Last Days in Ponyville"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "It Was You All Along!", 
+            "picture": "Action - It Was You All Along.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "The Faceless Mare pulled back her hood to reveal... FLUTTERSHY?! - The Faceless Butterfly"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Trading Up", 
+            "picture": "Action - Trading Up.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "There was of course only one problem. Twilight would have to somehow break it to Cheerilee that they weren't, and really never had been, meant to be!  How could she keep from breaking the poor mare's heart? - Magical Makeover"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Yer a Princess, Harry!", 
+            "picture": "Ship - Yer A Princess Harry.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Special"
+            ], 
+            "body": "When you attach this card to the grid, you may choose one Pony card attached to this Ship. Until the end of your turn, that Pony card becomes a \n{female} {alicorn} and gains the Princess keyword. This cannot affect Pony cards with the Changeling keyword.", 
+            "flavor": "Braeburn, like all Apples, was a pony of practicality, and while he could think of a number of advantages to his situation, none of them seemed to outweigh the impact on his wardrobe. - The Night Improbable"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Cutie Mark Crusaders:\nMatchmakers!", 
+            "picture": "Goal - Cutie Mark Crusader Matchmakers.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "I. Am never. Ever. Loaning them a potion book again. EVER. - Twilight's Secret Diary, Volume XXXII"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Fillyhood Crush", 
+            "picture": "Ship - Fillyhood Crush.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "And in that chunk of impenetrable granite, words have stood the test of time. Words that speak volumes to an uncaring, soulless universe that will never fully comprehend the joy two young foals can bring each other. Those words are: Celestia + Starswirl 4EVA - An Eternity In Your Eyes"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Crossover Fic!", 
+            "picture": "Ship - Crossover Fic.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Play From Discard"
+            ], 
+            "body": "{play from discard}", 
+            "flavor": "\"Back off!\" The dark-garbed Shadowbolts tugged on the delicate yellow mare, bodily shoving her away from the Auroch High School Host Club. \"We can't lose the key to our power!\" - A Fatal Decision"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Bad Pony! Go to My Room!", 
+            "picture": "Ship - Bad Pony Go To My Room.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Play From Discard"
+            ], 
+            "body": "{play from discard}", 
+            "flavor": "Applejack had no reason to do as Twilight said.  There was no spell compelling her to listen to the command.  And yet she turned and started walking anyway.\n- Take What You Want"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Life-Threatening Illness", 
+            "picture": "Ship - Life Threatening Illness.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Listen closely, Bulk Biceps,\" Iron Will said, blinking back tears, \"when the bug tries to block-\" a hoof squeezed at his hand. Bulk Biceps's eyes opened. \"Show em... you rock,\" he whispered. - Snow Falling on Minotaurs"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Worldwide Threat of\nDestruction", 
+            "picture": "Ship - Worldwide Threat of Destruction.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "\"Apoca... what's the plural form of apocalypse?\"\n- The Faceless Butterfly"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "Closed Door Negotiations", 
+            "picture": "Ship - Closed Door Negotiations.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "Her blue zircon eyes flashed dangerously against her white alabaster coat, the clanging clap of jonquil horseshoes on stone ringing down the olivine corridor. \"You're lying to me,\" she growled, her voice rich like mahogany, sharp like a glinting knife. She threw the offering across the table, startling her nervous visitors and gallant wardens alike as sparkling gems painted a clattering, glistening rainbow on the swirled marble surface. \"These are HELIOTROPE, not BERMUDA BLUE!!!\" she screeched, ire rising like so much ruby bile. And just like that... the war began.\n- Of Ponies And Peril, Chapter 18"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "They Fight Crime", 
+            "picture": "Ship - They Fight Crime.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "flavor": "He's a cosmopolitan stallion who's broken as many mares' hearts as he has bad guys' faces. His sidekick is a country-grown colt with a pure, naive soul and the determination to make the world a better place. Together they are... The Trottingham Shadows!\n- In The Dark of Twilight"
+        }, 
+        {
+            "type": "Ship", 
+            "title": "From an Alternate\nDimension", 
+            "picture": "Ship - From An Alternate Dimension.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Ship"
+            ], 
+            "keywords": [
+                "Timeline Change"
+            ], 
+            "body": "{timeline change}", 
+            "flavor": "General Moon looked herself up and down, raising a judgmental eyebrow. \"Hmmm... I guess you'll have to do. Come. We have... THINGS to accomplish.\"\n- Night Terrors 2: Dead Scared"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Self-Insertion", 
+            "picture": "Goal - Self Insertion.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n 3 Twilight Sparkles are shipped in a chain.", 
+            "flavor": "The rift shimmered like a glittering ocean, but Twilight's other self shone like a gorgeous, awe-inspiring star, causing Twilight Prime's breath to catch and her heart to stop.\n- Narcissism? Ha!"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Fabulosity", 
+            "picture": "Goal - Fabulosity.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n2 Rarities are shipped together.", 
+            "flavor": "\"I do believe you'd look better with a hat,\" Rarity said to Rarity. \"A fabulous idea. But I think you'd look better WITHOUT it,\" Rarity replied with a sly smile. - Kiss and Tell"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Rainbow Dash Fan Club", 
+            "picture": "Goal - Rainbow Dash Fan Club.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n2 Rainbow Dashes are shipped together.", 
+            "flavor": "\"I bet I could beat you at wrestling!\" shouted Rainbow Dash. The other Rainbow Dash pounced, wings flared. \"You're on!!\" - Rock and Roll All Night"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "The Quiet Game", 
+            "picture": "Goal - Most Boring Orgy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n2 Fluttershies are shipped together.", 
+            "flavor": "\"Um...\" whimpered Fluttershy. \"That's not...I don't...\" The other version of herself, wreathed in flowers, strokes her cheek. \"Don't worry... It's only natural...\"\n- Delving Deeper"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Paradox", 
+            "picture": "Goal - Paradox.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n2 Pinkie Pies are shipped together.", 
+            "flavor": "\"Hey! You know what would be really fun?\" asked Pinkie Pie. \"Hopping dimensions so that we can star together in our very own overly sappy romantic fan fiction?!\" squealed the first. \"EXACTLY!!\" - Delving Deeper"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Rodeo", 
+            "picture": "Goal - Rodeo.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n2 Applejacks are shipped together.", 
+            "flavor": "\"Ain't so bad,\" Applejack blushed and admitted. \"At least ah know what ah like.\" - Delving Deeper"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "I Swear I'm Not Gay!", 
+            "picture": "Goal - I Swear I'm Not Gay.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nAny {male} is shipped with 3 other {male}.", 
+            "flavor": "Truth be told, he had questioned before. Maybe, a dirty little voice in his head kept telling him, it was time to stop questioning... - New Experiences"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "It's Not\nEXACTLY Cheating...", 
+            "picture": "Goal - It's Not Exactly Cheating.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nAny single Pony is shipped with 2 versions of another Pony.", 
+            "flavor": "\"Wh...why're there two of ya?\" Berry slurred as she squinted at Luna, who stood aghast and hurt in the doorway. Nightmare Moon just threw back her head and laughed.\n- Night Terrors 2: Dead Scared"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Princess Pile", 
+            "picture": "Goal - Princess Pile.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\n3 Ponies with the Princess keyword\nare shipped in a chain.\nTwilight Sparkle doesn't count for this Goal.\nShe gets to watch.", 
+            "flavor": "\"Is it time?\" Cadance inquired as she trotted into the royal chambers. \"It absolutely is,\" Celestia replied, nodding imperiously. Luna squealed and leaped into the pillow pit. \"CUDDLE PILE!!!!!\" - The Royal Plot"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Shining Armor Approves\nof This Experiment!", 
+            "picture": "Goal - Shining Armor Approves of this Experiment.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nCadance is shipped with any {female}.", 
+            "flavor": "Shining Armor smiled at Cadance tenderly. \"I promise I won't get mad. You should explore what you need to explore.\" Inside, he was buzzing with excitement!\n- Secret Pictures"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "I Guess You'll Do", 
+            "picture": "Goal - I Guess You'll Do.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nTwilight Sparkle is shipped with any Cheerilee.", 
+            "flavor": "Cheerilee reminded her of Celestia, but only slightly, and in a rather homely way. If only she could use the mare to get closer to her desires. - Arduous Anticipation"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Well...Maybe", 
+            "picture": "Goal - Well Maybe.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nTwilight Sparkle is shipped with any Zecora.", 
+            "flavor": "Twilight knew she couldn't get to Celestia just yet, but the zebra was an okay substitute. But only with a few adjustments. - Arduous Anticipation"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Good Enough", 
+            "picture": "Goal - Good Enough.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nTwilight Sparkle is shipped with any Luna.", 
+            "flavor": "Twilight stared at her gorgeous teacher's mare-next-door of a younger sister. Maybe she wasn't Celestia... but she was one step closer. - Arduous Anticipation"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Hot for Teacher", 
+            "picture": "Goal - Hot For Teacher.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nTwilight Sparkle is shipped with any Celestia.", 
+            "flavor": "At long last, Twilight felt her heart hammer as she stared through the crack in the doors. There she was. There was Celestia! Twilight was certain she was going to get her just rewards. - Arduous Anticipation"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Pomf!", 
+            "picture": "Goal - Wingboner.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\n3 {pegasus}/{pegasus} Ships are on the grid.\n{alicorn} count as {pegasus} for this Goal.", 
+            "flavor": "Derpy gasped, hooves flinging into the air. \"You have wings? I have wings too! Let's be friends!\" - Tuck and Roll"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "\"Just Experimenting\"", 
+            "picture": "Goal - I Swear I'm Not A Lesbian.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nRainbow Dash is shipped with 3 {female}.", 
+            "flavor": "Sure, she had several different mares on the hook right now, but weren't a mare's preferences fluid anyway?\n- Rock and Roll All Night"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Friendship is Benefits", 
+            "picture": "Goal - Friends with Benefits.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3-4"
+            ], 
+            "body": "Win this Goal when:\n6 Ponies with the Mane 6 keyword are shipped in a chain.\nThis Goal is worth 4 points if no Pony is a different version of another Pony in the chain.", 
+            "flavor": "As they all settled into bed that night, they couldn't help but ruminate on the fact that they had all found each other ... and maybe it was worth something more than just s'mores and ghost stories. - The Week-Long Sleepover"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Help! I'm Trapped in a\nShipping Card Game!", 
+            "picture": "Goal - Help I'm Trapped in a Shipping Card Game.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "0"
+            ], 
+            "body": "Win this Goal when:\nCheerilee is shipped with anypony.\nAnypony at all.\nThe player who achieves this Goal increases their hand size by 1 for the rest of the game.", 
+            "flavor": "What are you doing? Put down the card and get me out of here! HELP!!! - Unknown"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Time Travelers Among Us", 
+            "picture": "Goal - Time Travelers Among Us.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nAt least 5 {postapocalypse} are on the grid.", 
+            "flavor": "\"Quick, I need to find a cyber computational machine!\" Twilight gasped to Pinkie, but Pinkie just shrugged. \"They don't exist yet, Twilight. We'll have to find something else.\"\n- Currents Through Time"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "It's Magical:\nHorns Are Touching", 
+            "picture": "Goal - Its Magical Horns Are Touching.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\n3 {unicorn}/{unicorn} Ships are on the grid.\n{alicorn} count as {unicorn} for this Goal.", 
+            "flavor": "The magic arced between their horns, crackling with the smell of ozone. Their eyes met in the octarine glow and something more than magic sparked that day...\n- Tawdry Terror"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "It's Not Creepy!", 
+            "picture": "Goal - It's Not Creepy.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nTwilight Sparkle is shipped\nwith any Shining Armor.", 
+            "flavor": "He kissed her forehead lightly and found the kiss lingering just a little bit too long. \"Love you... Twilie,\" he murmured.\n- Jitterbug"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "It's Not Evil!", 
+            "picture": "Goal - It's Not Evil.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nYou break up Shining Armor with any {female} except Twilight Sparkle.", 
+            "flavor": "The awful mare was sobbing but the heroic Twilight didn't care! Shining no longer had a bride to be, and good riddance! - Jitterbug"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Hostile Takeover", 
+            "picture": "Goal - Hostile Takeover.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\n3 Ponies with the Changeling keyword are on the grid.", 
+            "flavor": "\"Come, my minions,\" purred Chrysalis in her lavender-coated form. \"Now that I have possessed the form of the most powerful mare in Ponyville, we are certain to take over without a hitch!\" - The Thatched Roof Hive"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Chancellor Puddinghead's\nEntourage", 
+            "picture": "Goal - Chancellor Puddinghead.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {earthpony} in one turn.", 
+            "flavor": "The ponies came together nigh, prancing hooves and heads held high; for everypony knew for sure that horns and wings were not the cure! - Hearthswarming: A Detailed Account"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "My First Slash", 
+            "picture": "Goal - My First Slash.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nShining Armor is shipped with any {male}.", 
+            "flavor": "His heart pounded and his coat felt clammy as he watched the other stallion go by. He had only ever felt this way about one other pony... He never thought he would feel this way again. - Forbidden Love"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Queen Platinum's Court", 
+            "picture": "Goal - Queen Platinum.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {unicorn} in one turn.", 
+            "flavor": "The unicorns all shrieked and brayed, for summertime had been delayed. Go forth, the Queen demanded harsh, and end this all demeaning farce!\n- Hearthswarming: A Detailed Account"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Commander Hurricane's\nArmy", 
+            "picture": "Goal - Commander Hurricane.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {pegasus} in one turn.", 
+            "flavor": "Can't you see we're left behind? We've got to sail into the sky! We'll make the air and land our own and kick that snobby Plat'num throne! - Hearthswarming: A Detailed Account"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Heh. Peasants.", 
+            "picture": "Goal - Heh Peasants.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {alicorn} in one turn.", 
+            "flavor": "More alicorns marched through town, like a glistening, glittering tide. The crowd had seen what their gods had done to Applejack. They dared not even breathe.\n- The Coming of Rudolph the Red"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Needs More Lesbians", 
+            "picture": "Goal - Needs More Lesbians.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {female}/{female} Ships in one turn.", 
+            "flavor": "I've been looking at the most popular fics and I realized that the most popular ones have approximately seventy-two percent more lesbian presence than my own. I should remedy this. - Twilight's Secret Diary, Volume XIX"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Quite.", 
+            "picture": "Goal - Quite.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {male}/{male} Ships in one turn.", 
+            "flavor": "Braeburn looked around the Stallion's Lodge, at the monocles and mustaches. Sure, there was tea, doilies, and an inexplicable portrait of a dog, but it was all very MANLY.\n- Lodging a Complaint"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Shipwrecker", 
+            "picture": "Goal - Shipwrecker.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "2"
+            ], 
+            "body": "Win this Goal when:\nYou break up 12 Ships in one turn. Swapping a Pony card away from its original Ship counts as breaking up a Ship.", 
+            "flavor": "I'm just going to burn it all. I can't stand to read even a word of anything I've written. It's all just utter crap! How could I have ever thought I could be a writer?\n- Twilight's Secret Diary, Volume XXXV"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Invasive Species", 
+            "picture": "Goal - Invasive Species.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\n6 {earthpony}/{earthpony} Ships are on the grid.", 
+            "flavor": "The earth ponies were happy to slave away in the soil, creating food for their betters. As they should: no magic and no wings left them unfit for higher pursuits.\n- An Illustrated Sociological Study of Evolution"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Hold On; I Need to\nMake a Flow Chart", 
+            "picture": "Goal - Hold On I Need To Make A Flow Chart.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nYou swap 6 Pony card positions in one turn.", 
+            "flavor": "Pinkie waves excitedly at the camera. \"Here! Okay! Spike is obviously sooOOOoo in love with Rarity but Rarity is the big bad meanie queen of the new world! And Rarity actually likes Safflower, her hoofmaiden, but Safflower has a thing for Blueblood! And MEANWHILE, Twilight has a thing for the lone mercenary Applejack but it's not meant to be--\"\n- OPAP Omake 2"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Epidemic", 
+            "picture": "Goal - Epidemic.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nYou play 2 Love Poisons in one turn.", 
+            "flavor": "The crusaders nailed the last board to the window and cringed, trading terrified glances. Outside, the shrieking clamoring cries of \"sugar pie\" and \"cuddle-wuddle boopy bear\" were the clarion call of the apocalypse.\n- Last Days in Ponyville"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Go Forth and Multiply", 
+            "picture": "Goal - Go Forth and Multiply.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nYou play 3 {male}/{female} Ships in one turn.", 
+            "flavor": "I don't know, I just think het couples are boring...\n- Twilight's Secret Diary, Volume XIX"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Pretty Pretty Princess", 
+            "picture": "Goal - Pretty Pretty Princess.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nYou make Twilight Sparkle an {alicorn}.", 
+            "flavor": "This was the way it should be, Twilight thought as she smiled serenely down at her subjects. Yes, now she could make them do anything. Anything at all. - Arduous Anticipation"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Sadfic", 
+            "picture": "Goal - Sadfic.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "1"
+            ], 
+            "body": "Win this Goal when:\nYou break up Twilight Sparkle with any Pony.", 
+            "flavor": "Trixie stood in the rain, lips trembling as she tried and failed to fight back tears. \"Twilight...\" she whimpered softly. \"Trixie can't lose you...\" But the mare was already gone... her body limp and broken. - Tearing Us Apart"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Deep Cover", 
+            "picture": "Goal - Deep Cover.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\n2 Ponies with the Changeling keyword are shipped together.", 
+            "flavor": "K'larra preened in the mirror, making certain her violet mane was just so and that her white-clad figure was trim and perfect. Unwittingly, Sazzix was doing the same.\n- Switcheroo"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Budding Curiosity", 
+            "picture": "Goal - Budding Curiosity.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\nAny Pony is shipped with an opposite-gendered version of themselves.", 
+            "flavor": "Applebrandy blushed as Applejack circled him, eyeing him up and down. \"So it worked,\" she said, mostly to herself. \"And here ah thought it was just a silly myth...\"\n- Brandywine"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Charity Auction", 
+            "picture": "Goal - Charity Auction.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\n2 gender-swapped Ponies are shipped together.", 
+            "flavor": "Bluebell caught Elusive's glance as she shifted uncomfortably on the stage. They really didn't want to spend more time together than they had to but fate had thrown them together tonight... - Canterlot Miracles"
+        }, 
+        {
+            "type": "Goal", 
+            "title": "Cargo Ship", 
+            "picture": "Goal - Cargo Ship.png", 
+            "artist": "Pixel Prism", 
+            "symbols": [
+                "Goal", 
+                "3"
+            ], 
+            "body": "Win this Goal when:\n2 Ponies with the Object keyword are shipped together.", 
+            "flavor": "He was her rock. She gave him endless comfort. It was a match made in heaven. - Diamond in the Rough"
+        }, 
+        {
+            "type": "Rules1", 
+            "picture": "Rules1"
+        }, 
+        {
+            "type": "Rules3", 
+            "picture": "Rules3"
+        }, 
+        {
+            "type": "Rules5", 
+            "picture": "Rules5"
+        }
+    ]
+}
